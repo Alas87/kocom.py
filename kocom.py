@@ -45,7 +45,7 @@ type_h_dic = {v: k for k, v in type_t_dic.items()}
 seq_h_dic = {v: k for k, v in seq_t_dic.items()}
 device_h_dic = {v: k for k, v in device_t_dic.items()}
 cmd_h_dic = {v: k for k, v in cmd_t_dic.items()}
-room_h_dic = {'livingroom':'00', 'myhome':'00', 'bedroom':'01', 'room1':'02', 'room2':'03'}
+room_h_dic = {'livingroom':'00', 'bedroom':'01'}
 
 # mqtt functions ----------------------------
 
